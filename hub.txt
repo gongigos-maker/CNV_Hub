@@ -6,3 +6,4 @@ hub cnv_hub
     mainTrack cnv_track
     trackType bigWig
     trackDb hg19/trackDb.txt
+    genomesFile genomes.txt
