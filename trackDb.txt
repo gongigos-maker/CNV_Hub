@@ -1,9 +1,0 @@
-track cnv_track
-    bigDataUrl https://raw.githubusercontent.com/gongigos-maker/CNV_Hub/main/CNV_Hub/cnv.bw
-    shortLabel CNV Data
-    longLabel CNV Visualization (Score -1 to 1)
-    type bigWig
-    visibility dense
-    color 0,0,255
-    autoScale on
-    viewLimits -1.0:1.0
