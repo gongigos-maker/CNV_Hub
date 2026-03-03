@@ -1,0 +1,8 @@
+hub cnv_hub
+    shortLabel CNV Visualization
+    longLabel CNV data from my research
+    genome hg19
+    email gongigos@gmail.com
+    mainTrack cnv_track
+    trackType bigWig
+    trackDb hg19/trackDb.txt
